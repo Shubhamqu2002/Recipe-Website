@@ -15,3 +15,7 @@ React.js
 JavaScript
 HTML5
 CSS3
+
+![Screenshot 2024-04-30 120100](https://github.com/Shubhamqu2002/Recipe-Website/assets/149230759/a9fa1b00-e140-405e-841d-0c1195b9a0a4)
+
+![Screenshot 2024-04-30 120206](https://github.com/Shubhamqu2002/Recipe-Website/assets/149230759/8307c823-2c46-417a-817e-54a0ddcbc1e4)
