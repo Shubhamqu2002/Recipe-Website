@@ -1,4 +1,4 @@
-#Welcome to Recipe Fusion Repository!
+#Recipe Website
 
 Recipe Fusion is a modern web application built with React.js, designed to provide users with a delightful cooking experience. Our platform offers a vast collection of delicious recipes from around the world, curated for all skill levels.
 
